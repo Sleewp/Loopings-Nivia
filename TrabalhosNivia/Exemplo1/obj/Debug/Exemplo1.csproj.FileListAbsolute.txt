@@ -1,0 +1,51 @@
+C:\Users\2jd\Documents\Susana e Kauan\Exemplo1\Exemplo1\bin\Debug\Exemplo1.exe.config
+C:\Users\2jd\Documents\Susana e Kauan\Exemplo1\Exemplo1\bin\Debug\Exemplo1.exe
+C:\Users\2jd\Documents\Susana e Kauan\Exemplo1\Exemplo1\bin\Debug\Exemplo1.pdb
+C:\Users\2jd\Documents\Susana e Kauan\Exemplo1\Exemplo1\obj\Debug\Exemplo1.csproj.AssemblyReference.cache
+C:\Users\2jd\Documents\Susana e Kauan\Exemplo1\Exemplo1\obj\Debug\Exemplo1.Form1.resources
+C:\Users\2jd\Documents\Susana e Kauan\Exemplo1\Exemplo1\obj\Debug\Exemplo1.Properties.Resources.resources
+C:\Users\2jd\Documents\Susana e Kauan\Exemplo1\Exemplo1\obj\Debug\Exemplo1.csproj.GenerateResource.cache
+C:\Users\2jd\Documents\Susana e Kauan\Exemplo1\Exemplo1\obj\Debug\Exemplo1.csproj.CoreCompileInputs.cache
+C:\Users\2jd\Documents\Susana e Kauan\Exemplo1\Exemplo1\obj\Debug\Exemplo1.exe
+C:\Users\2jd\Documents\Susana e Kauan\Exemplo1\Exemplo1\obj\Debug\Exemplo1.pdb
+C:\Users\2jd\Documents\Susana e Kauan\Nivia\Atividade 1\Exemplo1\bin\Debug\Exemplo1.exe.config
+C:\Users\2jd\Documents\Susana e Kauan\Nivia\Atividade 1\Exemplo1\bin\Debug\Exemplo1.exe
+C:\Users\2jd\Documents\Susana e Kauan\Nivia\Atividade 1\Exemplo1\bin\Debug\Exemplo1.pdb
+C:\Users\2jd\Documents\Susana e Kauan\Nivia\Atividade 1\Exemplo1\obj\Debug\Exemplo1.csproj.AssemblyReference.cache
+C:\Users\2jd\Documents\Susana e Kauan\Nivia\Atividade 1\Exemplo1\obj\Debug\Exemplo1.Form1.resources
+C:\Users\2jd\Documents\Susana e Kauan\Nivia\Atividade 1\Exemplo1\obj\Debug\Exemplo1.Properties.Resources.resources
+C:\Users\2jd\Documents\Susana e Kauan\Nivia\Atividade 1\Exemplo1\obj\Debug\Exemplo1.csproj.GenerateResource.cache
+C:\Users\2jd\Documents\Susana e Kauan\Nivia\Atividade 1\Exemplo1\obj\Debug\Exemplo1.csproj.CoreCompileInputs.cache
+C:\Users\2jd\Documents\Susana e Kauan\Nivia\Atividade 1\Exemplo1\obj\Debug\Exemplo1.exe
+C:\Users\2jd\Documents\Susana e Kauan\Nivia\Atividade 1\Exemplo1\obj\Debug\Exemplo1.pdb
+C:\Users\2jd\Documents\Susana e Kauan\Nivia\Atividade 1\Exemplo1\obj\Debug\Exemplo1.frmmenu.resources
+C:\Users\2jd\Documents\Susana e Kauan\Nivia\Atividade 1\Exemplo1\obj\Debug\Exemplo1.frmdescontoprodutos.resources
+C:\Users\2jd\Documents\Susana e Kauan\Nivia\Atividade 1\Exemplo1\obj\Debug\Exemplo1.frmcidadania.resources
+C:\Users\2jd\Desktop\TrabalhoNivia\Exemplo1\obj\Debug\Exemplo1.csproj.AssemblyReference.cache
+C:\Users\2jd\Desktop\TrabalhoNivia\Exemplo1\obj\Debug\Exemplo1.Form1.resources
+C:\Users\2jd\Desktop\TrabalhoNivia\Exemplo1\obj\Debug\Exemplo1.frmmenu.resources
+C:\Users\2jd\Desktop\TrabalhoNivia\Exemplo1\obj\Debug\Exemplo1.frmdescontoprodutos.resources
+C:\Users\2jd\Desktop\TrabalhoNivia\Exemplo1\obj\Debug\Exemplo1.frmcidadania.resources
+C:\Users\2jd\Desktop\TrabalhoNivia\Exemplo1\obj\Debug\Exemplo1.Form5.resources
+C:\Users\2jd\Desktop\TrabalhoNivia\Exemplo1\obj\Debug\Exemplo1.Properties.Resources.resources
+C:\Users\2jd\Desktop\TrabalhoNivia\Exemplo1\obj\Debug\Exemplo1.csproj.GenerateResource.cache
+C:\Users\2jd\Desktop\TrabalhoNivia\Exemplo1\obj\Debug\Exemplo1.csproj.CoreCompileInputs.cache
+C:\Users\2jd\Desktop\TrabalhoNivia\Exemplo1\obj\Debug\Exemplo1.exe
+C:\Users\2jd\Desktop\TrabalhoNivia\Exemplo1\obj\Debug\Exemplo1.pdb
+C:\Users\2jd\Desktop\TrabalhoNivia\Exemplo1\bin\Debug\Exemplo1.exe.config
+C:\Users\2jd\Desktop\TrabalhoNivia\Exemplo1\bin\Debug\Exemplo1.exe
+C:\Users\2jd\Desktop\TrabalhoNivia\Exemplo1\bin\Debug\Exemplo1.pdb
+C:\Users\2JD\Documents\Kauan e Samuel\Nivia-looping\TrabalhosNivia\Exemplo1\bin\Debug\Exemplo1.exe.config
+C:\Users\2JD\Documents\Kauan e Samuel\Nivia-looping\TrabalhosNivia\Exemplo1\bin\Debug\Exemplo1.exe
+C:\Users\2JD\Documents\Kauan e Samuel\Nivia-looping\TrabalhosNivia\Exemplo1\bin\Debug\Exemplo1.pdb
+C:\Users\2JD\Documents\Kauan e Samuel\Nivia-looping\TrabalhosNivia\Exemplo1\obj\Debug\Exemplo1.csproj.AssemblyReference.cache
+C:\Users\2JD\Documents\Kauan e Samuel\Nivia-looping\TrabalhosNivia\Exemplo1\obj\Debug\Exemplo1.Form1.resources
+C:\Users\2JD\Documents\Kauan e Samuel\Nivia-looping\TrabalhosNivia\Exemplo1\obj\Debug\Exemplo1.frmmenu.resources
+C:\Users\2JD\Documents\Kauan e Samuel\Nivia-looping\TrabalhosNivia\Exemplo1\obj\Debug\Exemplo1.frmdescontoprodutos.resources
+C:\Users\2JD\Documents\Kauan e Samuel\Nivia-looping\TrabalhosNivia\Exemplo1\obj\Debug\Exemplo1.frmcidadania.resources
+C:\Users\2JD\Documents\Kauan e Samuel\Nivia-looping\TrabalhosNivia\Exemplo1\obj\Debug\Exemplo1.Form5.resources
+C:\Users\2JD\Documents\Kauan e Samuel\Nivia-looping\TrabalhosNivia\Exemplo1\obj\Debug\Exemplo1.Properties.Resources.resources
+C:\Users\2JD\Documents\Kauan e Samuel\Nivia-looping\TrabalhosNivia\Exemplo1\obj\Debug\Exemplo1.csproj.GenerateResource.cache
+C:\Users\2JD\Documents\Kauan e Samuel\Nivia-looping\TrabalhosNivia\Exemplo1\obj\Debug\Exemplo1.csproj.CoreCompileInputs.cache
+C:\Users\2JD\Documents\Kauan e Samuel\Nivia-looping\TrabalhosNivia\Exemplo1\obj\Debug\Exemplo1.exe
+C:\Users\2JD\Documents\Kauan e Samuel\Nivia-looping\TrabalhosNivia\Exemplo1\obj\Debug\Exemplo1.pdb
